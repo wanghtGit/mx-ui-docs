@@ -1,6 +1,0 @@
-node_modules/
-docs/.vitepress/.temp
-docs/.vitepress/cache
-docs/.vitepress/dist
-public/assets
-public/docs
