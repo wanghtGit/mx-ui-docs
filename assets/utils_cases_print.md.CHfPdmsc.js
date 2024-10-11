@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as s}from"./chunks/framework.DioSGhIs.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"utils/cases/print.md","filePath":"utils/cases/print.md"}'),a={name:"utils/cases/print.md"};function r(n,c,i,o,p,_){return s(),e("div")}const m=t(a,[["render",r]]);export{l as __pageData,m as default};
