@@ -6,7 +6,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "docs:dev": "vitepress dev docs --port 8022 --open",
     "docs:build": "vitepress build docs",
-    "docs:serve": "vitepress serve docs --port 8023"
+    "docs:serve": "vitepress serve docs --port 8023",
+    "docs:deploy": "node script/deployBefore.js && vitepress build docs && node script/deployAfter.js",
+    "docs:test": "node script/test.js"
   },
   "author": "",
   "license": "ISC",
