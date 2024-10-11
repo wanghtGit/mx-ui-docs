@@ -1,0 +1,31 @@
+:root {
+  --vp-layout-max-width: 1440px;
+}
+
+.mt-10 {
+  margin-top: 10px;
+}
+
+.mb-10 {
+  margin-bottom: 10px;
+}
+
+.ml-10 {
+  margin-left: 10px;
+}
+
+.mr-10 {
+  margin-right: 10px;
+}
+
+.ep-bg-purple {
+  background: #d3dce6;
+}
+
+.ep-bg-purple-dark {
+  background: #99a9bf;
+}
+
+.ep-bg-purple-light {
+  background: #e5e9f2;
+}
